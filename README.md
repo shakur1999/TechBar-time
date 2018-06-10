@@ -1,5 +1,5 @@
 # TechBar-time
-this is to ease the user exoerience at the TB aka walk up help desk...[BETA]
+this is to ease the end-point users exoerience at the TB aka walk up help desk...[BETA]
 
 * git clone git
 * mkdir myproject
