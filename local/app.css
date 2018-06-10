@@ -1,0 +1,89 @@
+body {
+/* background-image: url("Users/shakur.ahmed/Documents/singlePageApp/itsitlogo.jpg"); */
+  font-family:Sans-Serif, 'Arial';
+  color:#444;
+  background-color: #f1f2f2;
+  background: #c2e59c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}    
+
+.container {
+  max-width: 100%;
+  margin:0 auto;
+	padding: 50px;
+	text-align: center; 
+}
+ #username {
+ 	margin-bottom: 20px;
+ 	margin-top: 1px;
+ 	border: inset;
+ 	font-size: 17px;
+ }
+
+#description {
+	border: 1px solid #CCC;
+  min-height:100px;
+  width:100%;
+  margin:25px 0;
+  font-size: 17px;
+  box-shadow: 0.9px 5px 5px 3px rgba(128,128,128,.3);
+  border: groove;
+}
+
+button:hover {
+  background-color: lightgreen;
+  border-radius: 7px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 7px 17px;
+  box-shadow: 0 1px lightgreen; 
+  text-align: right;
+  
+}
+
+#username:focus {
+  /*background: lightgreen;*/
+  box-shadow: 0.9px 5px 5px 3px rgba(128,128,128,.3);
+  border-bottom-color: lightgray;
+}
+
+#description:focus {
+  border-color:#333;
+ 
+  
+}
+
+button {
+    line-height: 1.0;
+    border:1.5px solid lightgray;
+    border: inset;
+    font-size: 1.3em;
+    color: rgb(66,69,86);
+    padding: 3px 30px;
+    margin-top: 20px;
+    background: rgba(255,255,255,1.0);
+    border-radius: 111px;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
+
+#h4 {
+  padding-top: 35px;
+  text-align: center;
+  font-size: 33px;
+  line-height: 50px;
+  font-weight: 100;
+  text-align: center
+}
+
+/*section {*/
+/*	display: flex;*/
+/*	flex-direction: column;*/
+/*	align-items: center;*/
+/*	padding: 15px 20px;*/
+/*	min-height:100px;*/
+/*  width:100%;*/
+
