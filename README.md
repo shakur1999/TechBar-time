@@ -1,4 +1,4 @@
-# TechBar-time
+# node/express base TechBar-time project
 this is to ease the end-point users exoerience at the TB aka walk up help desk...[BETA]
 
 * git clone git
